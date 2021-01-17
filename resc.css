@@ -1,0 +1,69 @@
+body{
+    background-image: url('https://pixy.org/src2/574/5748262.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.navigation-bar {
+    width: 100%; 
+    height: 140px; 
+    background-color: green;
+}
+.navigation-bar > a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        
+    line-height: 80px;    
+    
+}
+.RecycIt{
+    color: white;
+    font-size:140px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 120px;
+    margin-right: 20px;
+    margin-top: 15px; 
+}
+.Statistics{
+    color: white;
+    font-size:70px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: right;
+}
+
+.quiz{
+    font-size: 45px;
+    margin-left: 500px;
+}
+
+.Rec{
+    font-size: 120px;
+    width: 40%; 
+    float: left;
+    color: white;
+}
+
+.NonRec{
+        font-size: 120px; 
+        width: 40%;
+        float: right;
+        color: white;
+}
+
+.vl {
+    border-left: 6px solid green;
+    height: 530px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 140px;
+  }
