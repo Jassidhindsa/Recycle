@@ -1,0 +1,101 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    z-index: -100;
+  }
+
+.navigation-bar {
+    width: 100%; 
+    height: 150px; 
+    background-color: green;
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 120px;
+    margin-right: 20px;
+    margin-top: 15px; 
+}
+.navigation-bar > a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        
+    line-height: 80px;    
+    
+}
+
+.right{
+    float:right;
+    font-size: x-large;
+    color: white;
+}
+
+.about{
+    float:right;
+    font-size: x-large;
+    color: white;
+}
+
+.help{
+    float:right;
+    font-size: x-large;
+    color: white;
+}
+
+.signup{
+    float:right;
+    font-size: x-large;
+    color: white;
+}
+
+.login{
+    float:right;
+    font-size: x-large;
+    color: white;
+}
+
+.home{
+    float:right;
+    font-size: x-large;
+    color: white;
+}
+
+.RecycIt{
+    color: white;
+    font-size:140px;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+.Findout{
+    margin-top: 120px;
+    font-size: 150px;
+    width: 40%; 
+    float: left;
+    background-color: black;
+    color: white;
+    
+}
+
+.LearningMode{
+    margin-top: 120px;
+        font-size: 150px; 
+        width: 40%;
+        float: right;
+        background-color: black;
+        color: white;
+}
+
+.vl {
+    border-left: 6px solid green;
+    height: 510px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 150px;
+  }
